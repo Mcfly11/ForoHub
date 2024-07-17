@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Alura_ONE-Challenge-orange">
   <img src="https://img.shields.io/badge/Status-finalizado-blue"><br>
-
 </p>
 
 
